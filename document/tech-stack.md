@@ -1,6 +1,6 @@
 # Tech Stack
 
-We will focus on Frontend development, so will find some fast and sustainable solution for BE support to develop things faster.
+We focus on Frontend development, so it would be reasonable to find a fast and sustain service for BE to develop things faster.
 
 ## Database service
 
