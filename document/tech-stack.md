@@ -2,7 +2,7 @@
 
 We focus on Frontend development, so it would be reasonable to find a fast and sustain Backend as Service (BaaS) to develop things faster.
 
-## Database service
+## Backend Service (Baas)
 
 After researched on https://bestofjs.org about trending and trustable libraries / services.
 
