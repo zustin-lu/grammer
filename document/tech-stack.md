@@ -1,6 +1,6 @@
 # Tech Stack
 
-We focus on Frontend development, so it would be reasonable to find a fast and sustain service for BE to develop things faster.
+We focus on Frontend development, so it would be reasonable to find a fast and sustain Backend as Service (BaaS) to develop things faster.
 
 ## Database service
 
